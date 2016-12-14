@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Baloo+Thambi');
+html, body, ul {
+	height: 100%;
+}
+html, body {
+	margin: 0;
+	padding: 0;
+}
+body {
+	text-align: center;
+	background-color: rgba(0, 0, 0, 0);
+}
+ul {
+	height: 100%;
+	width: 30%;
+	margin: auto;
+	list-style: none;
+	margin:auto;
+	display: table;
+	border-spacing: 20px;
+	table-layout: fixed;
+	box-sizing: border-box;
+	-moz-box-sizing:border-box;
+}
+ul li {
+	margin: 50px auto;
+	display: table-row;
+}
+ul li a {
+	background: rgba(82, 0, 102, .7);
+	display: table-cell;
+	vertical-align: middle;
+	text-decoration: none;
+	font-family: 'Baloo Thambi', cursive;
+	color: white;
+	text-shadow: -3px 1px 1px black;
+	font-size: 40px;
+	border-radius: 20px;
+	-moz-border-radius: 20px;
+	outline: 0;
+}
