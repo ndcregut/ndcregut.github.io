@@ -12,7 +12,7 @@ body {
 }
 ul {
 	height: 100%;
-	width: 30%;
+	width: 50%;
 	margin: auto;
 	list-style: none;
 	margin:auto;
@@ -27,7 +27,7 @@ ul li {
 	display: table-row;
 }
 ul li a {
-	background: rgba(82, 0, 102, .7);
+	background: rgba(1, 71, 112, 0.8);
 	display: table-cell;
 	vertical-align: middle;
 	text-decoration: none;
